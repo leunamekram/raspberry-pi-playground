@@ -10,3 +10,12 @@ All RPi-4 stuff
 * [Microchip BLE](https://microchipdeveloper.com/wireless:ble-phy-layer)
 * [Microchip TCP/IP](https://microchipdeveloper.com/tcpip:tcpip-intro-video)
 * [Microchip Wi-Fi® and Ethernet](https://microchipdeveloper.com/networking:start)
+
+## My Thoughts
+### Documenting functions
+
+    /*!
+     * @func  <function_name>
+     * @brief <Describe what the function does for the USER perspective. Answers WHAT>
+     * @desc  <Describe what the function does in the detail for the developer perspective. Answers HOW>
+     */
