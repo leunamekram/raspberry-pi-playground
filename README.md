@@ -2,7 +2,7 @@
 All RPi-4 stuff
 
 ## Official Raspberry Pi Documentation
-[Raspberrypu.org](https://www.raspberrypi.org/documentation/)
+[Raspberrypi.org](https://www.raspberrypi.org/documentation/)
 
 ## Other Links
 * [Build a Python Web Server with Flask](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask/3)
