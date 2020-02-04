@@ -4,6 +4,9 @@ All RPi-4 stuff
 ## Official Raspberry Pi Documentation
 [Raspberrypi.org](https://www.raspberrypi.org/documentation/)
 
+## Using IFTTT
+[How to Trigger LED using IFTTT and Raspberry Pi](https://iotdesignpro.com/projects/how-to-trigger-led-using-ifttt-and-raspberry-pi)
+
 ## Other Links
 * [Build a Python Web Server with Flask](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask/3)
 * [Adafruit BLE](https://learn.adafruit.com/introduction-to-bluetooth-low-energy/gatt)
